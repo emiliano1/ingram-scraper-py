@@ -1,6 +1,6 @@
 # Instructions #
 
-Ingram wanted us to pay like 10k to get images and inventory details. So, here is your hack!
+Ingram wanted us to pay like 10k to get images and inventory details. So, here is your hack! If this works for you then follow me here for more.
 
 - pull the code (branch master)
 - put the NEW.csv file inside the ingram_scraper folder
