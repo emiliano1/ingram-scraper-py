@@ -10,7 +10,7 @@ hyperlink==17.3.1
 idna==2.6
 incremental==17.5.0
 ipaddress==1.0.18
-lxml==4.1.0
+lxml==4.6.5
 olefile==0.44
 parsel==1.2.0
 Pillow==4.3.0
